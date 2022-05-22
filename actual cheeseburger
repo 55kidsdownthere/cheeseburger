@@ -1,0 +1,13 @@
+if game.PlaceId == 855499080 then
+    --skywars
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/55kidsdownthere/cheeseburger/main/pizza1'))()
+    elseif game.PlaceId == 283721918 then
+    --test
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/55kidsdownthere/cheeseburger/main/pizza1'))()
+    elseif game.PlaceId == 142823291 then
+    --mm2
+    print ("mm2")
+    elseif game.PlaceId == 47324 then
+    --SFOTH IV
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/55kidsdownthere/cheeseburger/main/pizza2'))()
+end
